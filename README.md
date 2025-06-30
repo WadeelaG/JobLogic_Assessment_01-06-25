@@ -1,4 +1,4 @@
-# JobLogic_Project_01-06-25
+# JobLogic_Project_MY30_01-06-25
  
  Objective
  To develop a machine learning model that can predict whether a company is likely to go bankrupt based on its financial indicators collected
