@@ -1,8 +1,5 @@
-# JobLogic_Assessment_01-06-25
-Assessment for Job Title: AI/ML Engineer
-
-
-Assessment Report
+# JobLogic_Project_01-06-25
+ 
  Objective
  To develop a machine learning model that can predict whether a company is likely to go bankrupt based on its financial indicators collected
  over 5 years. The task is framed as a binary classification problem (0 = non-bankrupt, 1 = bankrupt).
